@@ -5,5 +5,11 @@ div {
 }
 
 .noun {
-    color: blue;
+    color: green;
+}
+.adjective {
+    color: purple;
+}
+.verb {
+    color: orange;
 }
